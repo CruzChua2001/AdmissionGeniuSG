@@ -39,12 +39,12 @@ export default function App() {
           </Link>
         </NavbarItem>
         <NavbarItem>
-          <Link href="/faq" color="foreground" href="faq">
+          <Link href="/faq" color="foreground">
             FAQ
           </Link>
         </NavbarItem>
         <NavbarItem>
-          <Link href="/contact" color="foreground" href="contact">
+          <Link href="/contact" color="foreground">
             Contact
           </Link>
         </NavbarItem>
