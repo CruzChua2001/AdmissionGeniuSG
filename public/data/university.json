@@ -1,0 +1,46 @@
+{
+    "LOCAL_UNI": [
+        {
+            "Title": "National University of Singapore",
+            "Acronym": "NUS",
+            "Logo": "National_University_of_Singapore-Logo.wine.png",
+            "Logo_Height": "150px",
+            "Logo_Padding": "0"
+        },
+        {
+            "Title": "Nanyang Technological Univeristy of Singapore",
+            "Acronym": "NTU",
+            "Logo": "Nanyang_Technological_University-Logo.wine.png",
+            "Logo_Height": "150px",
+            "Logo_Padding": "0"
+        },
+        {
+            "Title": "Singapore Management University",
+            "Acronym": "SMU",
+            "Logo": "smu-logo-removebg-preview.png",
+            "Logo_Height": "130px",
+            "Logo_Padding": "5px"
+        },
+        {
+            "Title": "Singapore University of Technology and Design",
+            "Acronym": "SUTD",
+            "Logo": "sutd-singapore-university-of-technology-and-design5828-removebg-preview.png",
+            "Logo_Height": "150px",
+            "Logo_Padding": "0"
+        },
+        {
+            "Title": "Singapore Institute of Technology",
+            "Acronym": "SIT",
+            "Logo": "SIT-logo.png",
+            "Logo_Height": "150px",
+            "Logo_Padding": "0"
+        },
+        {
+            "Title": "Singapore University of Social Sciences",
+            "Acronym": "SUSS",
+            "Logo": "SUSS_logo.svg.png",
+            "Logo_Height": "100px",
+            "Logo_Padding": "12px"
+        }
+    ]
+}
